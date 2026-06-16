@@ -1,3 +1,2 @@
-export const SUPABASE_URL = "https://iwdfzvfqbtokqetmbmbp.supabase.co";
-export const SUPABASE_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYzMDU2NzAxMCwiZXhwIjoxOTQ2MTQzMDEwfQ._gr6kXGkQBi9BM9dx5vKaNKYj_DJN1xlkarprGpM_fU";
+export const SUPABASE_URL = "https://mplygqncyaugvntymzjm.supabase.co";
+export const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1wbHlncW5jeWF1Z3ZudHltemptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE1NjY1MDIsImV4cCI6MjA5NzE0MjUwMn0.NS8yAlj_PQCfT8rYMBwVtqgIXscpO1c_tM7Y1GgZZT0";
